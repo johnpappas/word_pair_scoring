@@ -45,7 +45,7 @@
 
     1. get the list of words (assuming you already found a source from github or google):
 
-    `curl ![alt text](https://raw.githubusercontent.com/sindresorhus/word-list/master/words.txt "github link to word list") > words.txt`
+    `curl https://raw.githubusercontent.com/sindresorhus/word-list/master/words.txt > words.txt`
 
     2. the list is in alphabetical order so we need to shuffle it:
 
